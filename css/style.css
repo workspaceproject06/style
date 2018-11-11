@@ -21,7 +21,7 @@ padding:5px;
 }
 
 #more{
-background:#444;
+background:#fff;
 color:#fff;
 }
 .navbar-collapse{
@@ -42,7 +42,7 @@ border:0px;
     display: block;
     height: 1px;
     content: " ";
-    width: 40%;
+    width: 36%;
     position: absolute;
     left: 0;
     top: 0.8em;
